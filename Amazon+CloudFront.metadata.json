@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"46465c6d494c4c2597e9ee50d80d4c65","collectionName":"Amazon CloudFront","type":"collection"}

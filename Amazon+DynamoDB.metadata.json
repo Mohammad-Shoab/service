@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"10576ce1caa44c9688c1e53e7c8f4372","collectionName":"Amazon DynamoDB","type":"collection"}

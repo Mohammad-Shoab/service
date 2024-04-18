@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7ba71e3a9057415fa0d4b109481aae0a","collectionName":"Amazon Kinesis","type":"collection"}

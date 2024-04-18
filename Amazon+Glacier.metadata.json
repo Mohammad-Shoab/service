@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"3302e4e50b154269990cb8bd9119e926","collectionName":"Amazon Glacier","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"0190105a535e454fa625fd30d4e514f6","collectionName":"Amazon Elastic Load Balancing","type":"collection"}

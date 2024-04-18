@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7da5324c59af440fb0d79fbd15dbc57b","collectionName":"Amazon Relational Database Service","type":"collection"}

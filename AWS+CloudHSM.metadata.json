@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"39e2808c25fe443092aaa1213beb0557","collectionName":"AWS CloudHSM","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a5fe8d727c9b48708abf945c5652f6e4","collectionName":"AWS WAF","type":"collection"}

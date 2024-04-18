@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"2acf2cfdce4c47259c33467bfc6b83d0","collectionName":"Savings Plans for AWS Compute usage","type":"collection"}

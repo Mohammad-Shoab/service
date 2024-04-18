@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"914837a5edc24148b4c56aadc7f5eadf","collectionName":"AWS Service Catalog","type":"collection"}

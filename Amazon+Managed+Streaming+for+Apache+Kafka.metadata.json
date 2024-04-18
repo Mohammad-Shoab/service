@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"dc1d7f51aec243e6a01408956750f67c","collectionName":"Amazon Managed Streaming for Apache Kafka","type":"collection"}

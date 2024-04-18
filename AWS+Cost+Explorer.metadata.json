@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"025295d7f87e490eb2bc70706c808932","collectionName":"AWS Cost Explorer","type":"collection"}

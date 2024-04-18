@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d9def58dc0cf497bafc647c22c629334","collectionName":"Amazon GuardDuty","type":"collection"}

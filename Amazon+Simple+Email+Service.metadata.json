@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"648ab25a8ac54f64a59720fcf1f3303e","collectionName":"Amazon Simple Email Service","type":"collection"}
